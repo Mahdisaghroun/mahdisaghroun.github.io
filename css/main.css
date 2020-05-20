@@ -14,11 +14,6 @@ body{
     color: #bfc6c9;
     margin-right: 8px;
   
-
-}
-.upper-bar span{
-    display: inline-block;
-    letter-spacing: 2px;
 }
 
 .upper-bar .get-quote{
@@ -26,7 +21,7 @@ body{
     display: inline-block;
     border : 1px solid #ec1c23;
     padding: 2px 10px;
-    margin-left: 20px;;
+
    
 }
 /*end upper-bar */
