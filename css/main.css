@@ -87,7 +87,9 @@ justify-content: left;
     z-index: 3;
     color: #ffff;
  
-left:70px;
+    left:70px;
+    right:30px;
+    margin-bottom: 30px;
    
     padding: 20px 10px;
     font-size: 50px;
