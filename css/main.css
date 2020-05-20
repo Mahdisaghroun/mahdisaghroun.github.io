@@ -91,7 +91,7 @@ justify-content: left;
     
    
    padding: 0px 10px;;
-    font-size: 50px;
+    font-size:5.9vw;
     line-height: 2;
     width: 100%;
   
@@ -100,11 +100,7 @@ justify-content: left;
    
 
 }
-@media only screen and (max-width: 600px) {
-    .slider .carousel-inner h1 {
-      font-size: 30px;
-    }
-}
+
 .slider .carousel-inner >h1>span:last-child{
     background-color:#ec1c23;
     padding:0;
