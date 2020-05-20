@@ -100,6 +100,11 @@ justify-content: left;
    
 
 }
+@media only screen and (max-width: 600px) {
+    .slider .carousel-inner h1 {
+      font-size: 30px;
+    }
+}
 .slider .carousel-inner >h1>span:last-child{
     background-color:#ec1c23;
     padding:0;
