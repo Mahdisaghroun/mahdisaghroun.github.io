@@ -15,7 +15,10 @@ body{
   
 
 }
-
+.upper-bar span{
+    display: inline-block;
+    letter-spacing: 2px;
+}
 
 .upper-bar .get-quote{
 
