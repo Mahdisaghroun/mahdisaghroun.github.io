@@ -10,10 +10,12 @@ body{
     color:#ffff;
     padding:10px;
 }
-.upper-bar span{
+.upper-bar span:first-child{
     color: #bfc6c9;
+  
 
 }
+
 .upper-bar .get-quote{
 
     display: inline-block;
@@ -91,7 +93,7 @@ justify-content: left;
     
    
    padding: 0px 10px;;
-    font-size:5.9vw;
+    font-size:4.9vw;
     line-height: 2;
     width: 100%;
   
